@@ -24,7 +24,6 @@ body {
   flex-direction: column;
   -webkit-font-smoothing: antialiased;
 }
-
 main {
   flex: 1;
 }
